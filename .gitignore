@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Emacs
+*~
+
+# Mac
+.DS_Store
+
+# Project
+project/
+target/
